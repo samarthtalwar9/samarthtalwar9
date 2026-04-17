@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi 👋, I'm Samarth Talwar<br><br>AI • Automation • Tech Explorer<br><br>💻 CSE Student<br><br>⚡ Passionate about building simple, useful, and scalable tech solutions<br><br>🚀 Exploring AI, automation, and real-world problem solving<br><br>🤝 Open to collaboration on tech projects and innovative ideas<br><br>📚 Currently learning DSA, AI tools, and business fundamentals<br><br>📫 Reach me at: [talwarsamarth9@gmail.com](mailto:talwarsamarth9@gmail.com)<br><br>🛠️ Vibe Coder — powered by ideas, curiosity, and a bit of chaos ⚡<br>
 
 
