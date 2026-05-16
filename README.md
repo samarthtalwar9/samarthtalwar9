@@ -1,5 +1,29 @@
-# Hi 👋, I'm Samarth Talwar<br><br>AI • Automation • Tech Explorer<br><br>💻 CSE Student<br><br>⚡ Passionate about building simple, useful, and scalable tech solutions<br><br>🚀 Exploring AI, automation, and real-world problem solving<br><br>🤝 Open to collaboration on tech projects and innovative ideas<br><br>📚 Currently learning DSA, AI tools, and business fundamentals<br><br>📫 Reach me at: [talwarsamarth9@gmail.com](mailto:talwarsamarth9@gmail.com)<br><br>🛠️ Vibe Coder — powered by ideas, curiosity, and a bit of chaos ⚡<br>
+Hi, I'm Samarth Talwar 👋
 
+I’m interested in AI, software development, open source, web development, and problem solving. I enjoy exploring new technologies and learning through projects, hackathons, communities, and hands-on development.
+
+🚀 Current Focus
+• AI & Web Development  
+• Open Source Contributions  
+• Prompt Engineering  
+• Data Structures & Algorithms  
+• AI-Assisted Development  
+
+🏆 Achievements
+• Contributor at GirlScript Summer of Code 2026 (GSSoC’26)  
+• Ex Campus Mantri at GeeksforGeeks  
+• Received Letter of Recommendation from GeeksforGeeks  
+• Secured 148th rank on GeeksforGeeks Campus Mantri leaderboard  
+• Selected among Top 400 participants in Google Virtual PromptWars by Build with AI among 21,000+ participants across India  
+
+🌱 Currently learning and improving in:
+C++, Python, DSA, Git/GitHub, AI tools, and software development workflows.
+
+📫 Contact Me
+• Email: talwarsamarth9@gmail.com  
+• LinkedIn: linkedin.com/in/samarthtalwar  
+
+Always open to learning, collaborating, and contributing to impactful projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthtalwar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talwarsamarth9@gmail.com) 
