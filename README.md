@@ -42,13 +42,3 @@ Always open to learning, collaborating, and contributing to impactful projects.
 [![](https://komarev.com/ghpvc/?username=samarthtalwar9&icon=1&color=0)](https://visitcount.itsvg.in)
 
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samarthtalwar9/samarthtalwar9/pacman-output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samarthtalwar9/samarthtalwar9/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samarthtalwar9/samarthtalwar9/pacman-output/breakout-contribution-graph.svg">
-</picture>
-
-###
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
